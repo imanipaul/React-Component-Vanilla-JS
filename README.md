@@ -1,4 +1,4 @@
-#STEPS
+### STEPS
 
 1. create new project
 ```mkdir projectwork && cd projectwork```
@@ -39,7 +39,7 @@ Basic app should be running at this point, with simple packages. Do the followin
   5. Add React and ReactDOM to *src/index.js*
   6. Make sure to give targeted div or section an id!
 
-#GUIDES
+### GUIDES
 
 
 * https://www.sitepoint.com/beginners-guide-webpack-module-bundling/
